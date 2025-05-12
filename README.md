@@ -2,7 +2,7 @@
 
 🎓 **MBA in Finance & IT** | 📊 Aspiring Business Analyst | 🧠 Lifelong Learner
 
-Welcome to my GitHub! I'm passionate about finance, data analysis, and leveraging technology to solve real-world business problems. Currently pursuing my MBA from **IIMT College of Engineering,Greater Noida**, I’ve developed a strong foundation in financial reporting, budgeting, compliance, and business analytics.
+Welcome to my GitHub! I'm passionate about finance, data analysis, and leveraging technology to solve real-world business problems. Currently pursuing my MBA from **IIMT College of Engineering, Greater Noida**, I’ve developed a strong foundation in financial reporting, budgeting, compliance, and business analytics.
 
 ---
 
